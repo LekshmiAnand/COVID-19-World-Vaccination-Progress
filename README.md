@@ -7,7 +7,9 @@ We all know how the world has suffered a lot from Covid-19 and how everything is
 Data Source :
 
 COVID-19 World Vaccination Progress
+
 (Daily and Total Vaccination for COVID-19 in the World)
+
 The dataset “COVID-19 World Vaccination Progress” is an open source, which I found on Kaggle
 Data is collected daily from Our World in Data GitHub repository for covid-19. I rate the data as trustworthy.
 
